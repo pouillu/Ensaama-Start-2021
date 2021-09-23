@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CloneOneClick : MonoBehaviour
+public class CloneOnClick : MonoBehaviour
 {
     public int numberOfClones = 30;
 
