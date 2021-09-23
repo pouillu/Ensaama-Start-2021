@@ -20,4 +20,4 @@ GameObject clone = Instantiate(gameObject);
 Destroy(clone, 5f);
 ```
 
-[voir usage dans CloneOnClick.cs](./Assars/ClonneOnClick.cs)
+[voir usage dans CloneOnClick.cs](./Assets/ClonneOnClick.cs)
